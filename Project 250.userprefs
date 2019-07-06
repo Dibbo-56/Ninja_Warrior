@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\AttackBehaviour.cs">
+    <Files>
+      <File FileName="Assets\scripts\player.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CollisionTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\AttackBehaviour.cs" Line="29" Column="69" />
+      <File FileName="Assets\scripts\Knife.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Character.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyState\IdleState.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyState\IEnemyState.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyState\MeleeState.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyState\PatrolState.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyState\RangedState.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\IgnorCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemySight.cs" Line="1" Column="1" />
+      <File FileName="Assets\DamageBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\DeathBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SwordCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SlideBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
